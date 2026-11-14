@@ -366,6 +366,6 @@ Suitable for roles such as:
 
 **Umesh Manik Zure**
 
-Senior Business Analyst | Banking Analytics | Risk Analytics | Data Transformation | Generative AI
+Senior Data Analytics Professional | Senior Business Analyst | Banking Analytics | Risk Analytics | Data Transformation | Generative AI
 
 GitHub: https://github.com/UZureAIEngineer
